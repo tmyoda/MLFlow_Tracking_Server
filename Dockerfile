@@ -1,4 +1,4 @@
-FROM continuumio/miniconda
+FROM continuumio/miniconda3
 MAINTAINER Tsuyuki
 
 ARG DEBIAN_FRONTEND="noninteractive"
